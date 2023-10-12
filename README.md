@@ -1,2 +1,2 @@
 # Disney-hotstar-Clone
-clone of disney-hotstar with firebase to store data 
+Disney-hotstar-clone  with firebase to store data 
